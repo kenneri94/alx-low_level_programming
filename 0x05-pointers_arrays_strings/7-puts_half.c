@@ -1,9 +1,12 @@
 #include "main.h"
 /**
- * Description - puts _half function that prints half
- * followed by a new line.
+ * main - Entry point
  *
- * @str; This is the input string
+ * Description:puts_half function that prints half a string,
+ * followed by new line.
+ * @str: This is the input string
+ *
+ * Return: Always 0 (sucess)
  */
 void puts_half(char *str)
 {
