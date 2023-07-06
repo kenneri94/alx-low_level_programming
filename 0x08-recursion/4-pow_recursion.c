@@ -7,7 +7,7 @@
  * Return: x to the pow of y.
  * -1 if x < 0
  */
-int _pow_recursive(int x, int y)
+int _pow_recursion(int x, int y)
 {
 	if (y < 0)
 		return (-1);
